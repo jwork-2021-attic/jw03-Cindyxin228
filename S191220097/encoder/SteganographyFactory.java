@@ -1,4 +1,4 @@
-package example.encoder;
+package S191220097.encoder;
 
 import java.io.File;
 import java.io.IOException;
@@ -31,7 +31,7 @@ public class SteganographyFactory {
 
     public static void main(String[] args) throws IOException {
 
-        SteganographyFactory.getSteganography("example/BubbleSorter.java", "example/resources/bubble.jpeg");
+        SteganographyFactory.getSteganography("S191220097/QuickSorter.java", "S191220097/resources/sec.jpg");
 
     }
 
