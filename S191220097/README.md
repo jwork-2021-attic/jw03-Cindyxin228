@@ -14,11 +14,11 @@ SteganographyFactory用来对图片实行隐写术，即 将图片读入，通�
 
 "file:./S191220097.QuickSorter.png"
 
-<img src="C:\Users\hp\Desktop\jw03-Cindyxin228\S191220097.QuickSorter.png" alt="S191220097.QuickSorter" style="zoom: 33%;" />
+![](../S191220097.QuickSorter.png)
 
 "file:./S191220097.SelectSorter.png"
 
-![S191220097.SelectSorter](C:\Users\hp\Desktop\jw03-Cindyxin228\S191220097.SelectSorter.png)
+![](../S191220097.SelectSorter.png)
 
 ## 任务三
 
@@ -28,20 +28,20 @@ SteganographyFactory用来对图片实行隐写术，即 将图片读入，通�
 
 对应第一张图
 
-<iframe height = 498 width = 510 src = " https://asciinema.org/a/ziSItLxDqRSj2yUZMjrXOvjI8">
+<https://asciinema.org/a/ziSItLxDqRSj2yUZMjrXOvjI8>
 
 #### 选择排序
 
 对应第二张图
 
-<iframe height = 498 width = 510 src = "https://asciinema.org/a/MqnuHw1wNyOeCnmTo6Er4qp0j">
-
-
+<https://asciinema.org/a/MqnuHw1wNyOeCnmTo6Er4qp0j>
 
 ## 任务四
 
 用的是蒙芷露的图片
 
-结果正确：
+![](../example.HeapSorter.png)
 
-<img src="C:\Users\hp\AppData\Roaming\Typora\typora-user-images\image-20211006135506251.png" alt="image-20211006135506251" style="zoom:50%;" />
+结果正确:
+
+![](../result.png)
